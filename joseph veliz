@@ -1,0 +1,15 @@
+Proceso Practica_2_suma_resta_multiplicacion
+	Definir n1, n2, n3, s, m, r Como Real;
+	escribir "Ingresar primer nùmero";
+	Leer n1;
+	escribir "segundo nùmero";
+	Leer n2;
+	escribir "Ingresar tercer nùmero";
+	Leer n3;
+	m<-n1*n2*n3;
+	s<-n1+n2+n3;
+	r<-n1-n2-n3;
+	Escribir "La multiplicacion es ", m;
+	Escribir "La suma es ", s;
+	escribir "la resta es ", r;
+FinProceso
